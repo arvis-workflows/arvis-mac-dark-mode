@@ -1,0 +1,34 @@
+{
+	"name": "@jopemachine/arvis-mac-dark-mode",
+	"version": "0.0.1",
+	"description": "arvis workflow to toggle the system dark mode",
+	"license": "MIT",
+	"repository": "sindresorhus/arvis-dark-mode",
+	"author": {
+		"name": "Sindre Sorhus",
+		"email": "sindresorhus@gmail.com",
+		"url": "https://sindresorhus.com"
+	},
+	"engines": {
+		"node": ">=8"
+	},
+	"scripts": {
+		"postinstall": "arvish-init",
+		"preuninstall": "arvish-cleanup"
+	},
+	"files": [
+		"icon.png",
+		"info.plist"
+	],
+	"keywords": [
+		"arvis",
+		"workflow",
+		"arvish",
+		"dark",
+		"mode",
+		"system"
+	],
+	"dependencies": {
+		"@jopemachine/arvish": "^0.1.13"
+	}
+}

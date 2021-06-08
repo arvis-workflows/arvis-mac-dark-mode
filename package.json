@@ -1,7 +1,7 @@
 {
 	"name": "@jopemachine/arvis-mac-dark-mode",
-	"version": "0.0.1",
-	"description": "arvis workflow to toggle the system dark mode",
+	"version": "0.0.4",
+	"description": "Arvis workflow to toggle the system dark mode",
 	"license": "MIT",
 	"repository": "sindresorhus/arvis-dark-mode",
 	"author": {
@@ -18,7 +18,9 @@
 	},
 	"files": [
 		"icon.png",
-		"info.plist"
+		"info.plist",
+		"arvis-workflow.json",
+		"toggle.scpt"
 	],
 	"keywords": [
 		"arvis",

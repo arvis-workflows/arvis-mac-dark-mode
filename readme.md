@@ -4,6 +4,12 @@
 
 <img src="screenshot.gif" width="696" height="280">
 
+## 🔗 This workflow is converted from [alfred-workflow](https://github.com/sindresorhus/alfred-dark-mode).
+
+* Note that there might be some code change or different actions from the original workflow.
+
+* Marked original workflow's creator to author.
+
 ## Install
 
 ```

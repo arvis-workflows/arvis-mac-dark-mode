@@ -1,6 +1,6 @@
 {
-	"name": "@jopemachine/arvis-mac-dark-mode",
-	"version": "0.2.0",
+	"name": "arvis-mac-dark-mode",
+	"version": "0.0.1",
 	"description": "Arvis workflow to toggle the system dark mode",
 	"license": "MIT",
 	"repository": "sindresorhus/arvis-dark-mode",
@@ -31,6 +31,6 @@
 		"system"
 	],
 	"dependencies": {
-		"@jopemachine/arvish": "^0.2.4"
+		"arvish": "^0.0.3"
 	}
 }

@@ -1,4 +1,4 @@
-# arvis-dark-mode <img src="icon.png" width="40">
+# arvis-mac-dark-mode <img src="icon.png" width="40">
 
 > [arvis](https://arvisapp.com) workflow to toggle the system dark mode
 
@@ -13,7 +13,7 @@
 ## Install
 
 ```
-$ npm install --global arvis-dark-mode
+$ npm install --global arvis-mac-dark-mode
 ```
 
 *Requires the arvis [Powerpack](https://www.arvisapp.com/powerpack/).*

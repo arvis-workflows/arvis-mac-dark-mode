@@ -5,7 +5,7 @@
   "description": "",
   "name": "Dark Mode",
   "defaultIcon": "icon.png",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "readme": "",
   "webAddress": "",
   "enabled": true,
@@ -15,11 +15,10 @@
       "command": "dark",
       "title": "Toggle Dark Mode",
       "subtitle": "",
-      "withspace": false,
       "argType": "no",
       "actions": [
         {
-          "modifier": "normal",
+          "modifiers": "normal",
           "type": "script",
           "script": "osascript toggle.scpt"
         }

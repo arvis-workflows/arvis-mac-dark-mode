@@ -2,12 +2,12 @@
   "$schema": "https://raw.githubusercontent.com/jopemachine/arvis-extension-validator/master/workflow-schema.json",
   "category": "Productivity",
   "creator": "Sindre Sorhus",
-  "description": "",
-  "name": "Dark Mode",
+  "description": "Arvis workflow to toggle the system dark mode",
+  "name": "arvis-mac-dark-mode",
   "defaultIcon": "icon.png",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "readme": "",
-  "webAddress": "",
+  "webAddress": "https://github.com/jopemachine/arvis-mac-dark-mode",
   "enabled": true,
   "commands": [
     {

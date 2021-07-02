@@ -5,10 +5,13 @@
   "description": "Arvis workflow to toggle the system dark mode",
   "name": "arvis-mac-dark-mode",
   "defaultIcon": "icon.png",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "readme": "",
   "webAddress": "https://github.com/jopemachine/arvis-mac-dark-mode",
   "enabled": true,
+  "platform": [
+    "darwin"
+  ],
   "commands": [
     {
       "type": "keyword",
